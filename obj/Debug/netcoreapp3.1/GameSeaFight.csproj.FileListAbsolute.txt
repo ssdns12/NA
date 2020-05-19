@@ -1,0 +1,33 @@
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.exe
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.deps.json
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.json
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.dev.json
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.pdb
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.csprojAssemblyReference.cache
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfo.cs
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\1\Desktop\игра\наша игра\GameSeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.pdb
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.exe
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.deps.json
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.json
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.dev.json
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\пк\Desktop\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.pdb
+C:\Users\пк\Desktop\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfo.cs
+C:\Users\пк\Desktop\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\пк\Desktop\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.pdb
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.exe
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.deps.json
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.json
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.runtimeconfig.dev.json
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\bin\Debug\netcoreapp3.1\GameSeaFight.pdb
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.csprojAssemblyReference.cache
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.AssemblyInfo.cs
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.dll
+C:\Users\1\Desktop\SeaFight (3)\SeaFight\obj\Debug\netcoreapp3.1\GameSeaFight.pdb
